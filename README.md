@@ -41,7 +41,7 @@
 
 ## 📫 Let’s Connect
 
-- 📄 Web Site/ Blog: [your-website.com](https://dmdsmartketing.com)  
+- 📄 Web Site/ Blog: [https://dmdsmartketing.com](https://dmdsmartketing.com)  
 - 📧 Email: `dmd@imyourvision.tech`   
 
 ---
